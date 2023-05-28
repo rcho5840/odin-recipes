@@ -1,1 +1,1 @@
-# odin-recipes
+Odin Recpies features a simple spam, egg, and rice meal. This is a cheap and efficient way to make a meal that will provide decent protein and keep you full. 
